@@ -1,4 +1,4 @@
-# 🛡️ VoiceGuard — Two-Stage Voice Danger Detection
+# 🛡️  voice-danger-detector — Two-Stage Voice Danger Detection
 
 > Detect danger in real-time from voice audio using deep learning.  
 > Built with CNN-BiLSTM and CNN-LSTM models trained on three speech emotion datasets.
